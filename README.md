@@ -4,7 +4,7 @@ A new Flutter application.
 
 
 ## Result of this work
-[!Result](https://github.com/Capotasto/todo-state-flutter/blob/master/assets/ios-todo.gif)
+![Result](https://github.com/Capotasto/todo-state-flutter/blob/master/assets/ios-todo.gif)
 
 ## Getting Started
 
