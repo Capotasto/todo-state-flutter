@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+
+## Result of this work
+[!Result](https://github.com/Capotasto/todo-state-flutter/blob/master/assets/ios-todo.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
